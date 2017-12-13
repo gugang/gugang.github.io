@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>G2</title>
+  
+  <subtitle>Do something you love doing and admire.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://gugang.net/"/>
+  <updated>2017-12-13T11:35:48.294Z</updated>
+  <id>http://gugang.net/</id>
+  
+  <author>
+    <name>G2</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://gugang.net/2017/12/13/hello-world/"/>
+    <id>http://gugang.net/2017/12/13/hello-world/</id>
+    <published>2017-12-13T11:35:48.294Z</published>
+    <updated>2017-12-13T11:35:48.294Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Scrum is the new waterfall</title>
+    <link href="http://gugang.net/2015/11/17/Scrum-is-the-new-waterfall/"/>
+    <id>http://gugang.net/2015/11/17/Scrum-is-the-new-waterfall/</id>
+    <published>2015-11-17T11:03:58.000Z</published>
+    <updated>2017-12-13T11:35:48.293Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Scrum-is-the-new-waterfall（Scrum就是新时代的瀑布模型）"><a href="#Scrum-is-the-new-waterfall（Scrum就是新时代的瀑布模型）" class="headerlink" title="Scrum is the new waterfall（Scrum就是新时代的瀑布模型）"></a>Scrum is the new waterfall（Scrum就是新时代的瀑布模型）</h1><p>这是我看到的第一篇将Scrum作为反面教材的文章，有些道理。<a href="http://www.adambourg.com/2015/11/10/scrum-is-the-new-waterfall/" target="_blank" rel="noopener">查看原文</a></p><p>========</p><p>在软件开发领域，Scrum在理论上很棒，但是实践起来却是有缺陷的流程。Scrum就是瀑布模式的迭代，是流程的地狱。这样说，会让我回避或者被Agile组织踢出门。但我真的相信软件行业的祸根就是这个叫“Scrum”的流程。</p><h2 id="Scrum就是Agile"><a href="#Scrum就是Agile" class="headerlink" title="Scrum就是Agile"></a>Scrum就是Agile</h2><p>不，绝对不是Agile。Scrum是反敏捷。它自称为敏捷方法或理论，但如果你阅读过敏捷声明，Scrum在声明的定义里不是敏捷模式。敏捷的流程就通过流程或工具，安排好人和活动的优先级。</p><p>Scrum总是披着“敏捷”的外衣，它就像去祖父的老教堂，那里所有人总是重复着“Scrum教练”所说，听着各种致力于“Sprint计划”，“需求讨论会会”，“每日站会”等的想法。这些太枯燥，太陈旧了。这导致那些不写代码、不懂也不关心写代码背后技术流程的人来组织毫无意义的会议。</p><p>坚持Sprint的交付承诺，甚至为此加班。你承诺了，所以你必须交付。因为人不可能精确地估算。我们不能在建造摩天大楼时精确估算，那么做一套价值500万美金的软件又怎么能做到。</p><h2 id="如何敏捷"><a href="#如何敏捷" class="headerlink" title="如何敏捷"></a>如何敏捷</h2><p>要接受敏捷是围绕人为先，人为重的原则。怎样才能使你快速达到目标？干实事。不要把时间浪费在毫无意义的会议，就像计划或者需求讨论，只要不是使得我们快速前进的事情。</p><p>开站会就是为了设立站会的初衷，不是为了向leader汇报状况。站会是为了快速解决团队遇到的障碍，并快速前进。停止每天早晨9点开会，停止每天开多次会议。如果遇到问题或者阻碍，找个会议召集相关的人，站着，解决进展中的阻碍。</p><p>敏捷是快速前进，每日构建，按变更需求发布。Scrum在Sprint过程中没有流程就无法改变，这会阻止你改变并快速前进。如果昨天的需求是X，而今天的需求是X和Y，怎么办？你是今天能全部发布，还是下个Sprint发布？今天就做掉比下个Sprint再做要好很多。</p><h2 id="快速前进"><a href="#快速前进" class="headerlink" title="快速前进"></a>快速前进</h2><p>你需要编写测试代码。程序界面是否可以显示？程序在所有可能的路径都是正确地执行？如果产生脏数据怎么办？测试程序的接口，确认接口使用正确的契约，返回正确的数据格式，并且返回正确的数据。测试性能和安全。</p><p>你是不是能立刻发布Master分支的代码？如果不是，那你还有很多事情要做。Master分支必须随时可以发布到正常环境。如果不是，那就不算敏捷。</p><p>如果你重构或者重新设计系统，需要保证系统不会崩溃，那么写测试代码可以降低风险。</p><h2 id="放弃单元测试，测试契约"><a href="#放弃单元测试，测试契约" class="headerlink" title="放弃单元测试，测试契约"></a>放弃单元测试，测试契约</h2><p>单元测试可以很有用，但它把逻辑代码和测试测试紧密耦合在一起，使得程序非常脆弱并且反敏捷。</p><p>这就是契约测试出现的时机。测试类与类之间的契约，哪些是public interface？确保它们甚至对脏数据也可以处理。测试API契约！确保API返回有效的数据，有效的JSON格式或者XML WISDAL，亦或可以拿到的任何格式的返回数据。</p><p>测试UI契约。什么是成功的主流程？什么是常规路径？测试功能，而不是设计或者代码。</p><h2 id="如有必要，使用看板"><a href="#如有必要，使用看板" class="headerlink" title="如有必要，使用看板"></a>如有必要，使用看板</h2><p>我认为大多数流程都是浪费时间，除了看板。只需简单几列：</p><ul><li>未定义 - 需要有人增加一些细节。</li><li>已定义 - 我们觉得已经完善足够的细节，可以开工了。</li><li>正在做 - 开发人员正在开发。</li><li>已完成 - 完成并准备接受创建者确认。</li><li>已确认 - 这不是一个列而是一种状态，事情做完了，可以从看板上移除。</li></ul><p>发现卡片上没有足够多的细节！将它改成“未定义”状态或者从椅子上起来去找人完善细节。</p><p>没有任务小时数：人类不擅长估算。如果有必要统计，就记录实际工作时间。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Scrum-is-the-new-waterfall（Scrum就是新时代的瀑布模型）&quot;&gt;&lt;a href=&quot;#Scrum-is-the-new-waterfall（Scrum就是新时代的瀑布模型）&quot; class=&quot;headerlink&quot; title=&quot;Scrum 
+      
+    
+    </summary>
+    
+    
+      <category term="管理" scheme="http://gugang.net/tags/%E7%AE%A1%E7%90%86/"/>
+    
+      <category term="Agile" scheme="http://gugang.net/tags/Agile/"/>
+    
+      <category term="Scrum" scheme="http://gugang.net/tags/Scrum/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Three Phases of Consumer Products</title>
+    <link href="http://gugang.net/2015/11/05/The-Three-Phases-of-Consumer-Products/"/>
+    <id>http://gugang.net/2015/11/05/The-Three-Phases-of-Consumer-Products/</id>
+    <published>2015-11-05T04:01:27.000Z</published>
+    <updated>2017-12-13T11:35:48.294Z</updated>
+    
+    <content type="html"><![CDATA[<p>关于用户增长，Arjun Sethi的<a href="https://medium.com/backchannel/lessons-learned-growing-consumer-products-550fc04c63c2" target="_blank" rel="noopener">这篇文章</a>总结了产品的三个阶段：want，need和utility。</p><p><img src="https://cdn-images-2.medium.com/max/1600/1*ulpJ8NID9oW0VALWdeiCGw.jpeg" alt=""></p><h1 id="The-Three-Phases-of-Consumer-Products-面向大众产品的三个阶段"><a href="#The-Three-Phases-of-Consumer-Products-面向大众产品的三个阶段" class="headerlink" title="The Three Phases of Consumer Products 面向大众产品的三个阶段"></a>The Three Phases of Consumer Products 面向大众产品的三个阶段</h1><blockquote><p>First you want it. Then you need it. Then everybody can’t live without it — like a utility.<br>首先你想要用它。然后你需要用它。最后每个人都离不开它——就像一个不可或缺的公共服务。</p></blockquote><p>Facebook是第一家（自从有了互联网以来）成立了<strong>增长团队</strong>的公司。毫无疑问，这个团队卓有成效地帮助实现了可持续的用户增长。然后人们往往忘记Facebook在关注用户增长之前，已经做到如Marc Andreessen所说的<strong>产品符合市场</strong>。产品符合市场是指“在一个良好的市场里，一款产品很好地满足了市场需要”。</p><p>时至今日，有无数的博客和电子书谈论了关于分发、转化、增长、增长黑客、增长营销，甚至增长团队。谈论容易学习难，因为增长不是一门艺术，而是一门科学，方法也很技术化。你提出假想，测试这些假想，基于了解到哪些影响产品的因素，不断迭代并安排功能优先级。</p><p>每条描述增长的言论都应该包含这个声明：</p><blockquote><p>You can’t grow a consumer product that hasn’t reached product market fit.<br>当产品不能符合市场需要时，你不可能获得用户增长。</p></blockquote><p>我职业生涯的大部分时间都在创造面向大众的产品，让产品符合市场需要是最有挑战的技术。传统的价值主张聚焦于解决“问题”或者“完成工作”，在创造面向大众的新产品时不能适用。你需要一个鲜活的产品并确信全世界都会喜欢上它。为了创造这样的好产品并留下值得铭记的经验，你需要观察、测试和分析，最后和用户行为结合起来。人们时常会忘记（特别在硅谷）产品体验来自于用户的情感需要。</p><p>你的用户在消费体验。你会如何测试、询问并汇集各种信息？在最初的几个月或者几年，你会如何思考你的产品，并且演化它？解读产品起步后的数据会很诱人，但最好还是关注整体体验。定量的数据统计只是延迟的指标，但不会告诉你如何全盘考虑产品。</p><p>我曾参与facebook应用（没错，有成百上千个）的构建、增长和关注，包括fb游戏、手机游戏和终端移动应用。通过这些经验，我总结开发出一套框架，用于思考大众产品的体验和它们所经历的不同阶段。</p><p>这有三个阶段。大众产品开始于<strong>想要</strong>，然后变成<strong>需要</strong>。最后的阶段，大多数产品也不会达到，演变成<strong>公用服务</strong>。</p><p><img src="https://cdn-images-2.medium.com/max/1600/1*BJ-riT2gQo9Eql-ia_aWVA.png" alt=""></p><blockquote><p>Want — Solves a core value proposition that’s very unique and feels like a novelty.</p><p>Need — People can’t live without it and keep coming back for more.</p><p>Utility — It becomes a feature of other products.</p></blockquote><p>那些高速增长的大众产品已经经历了这些阶段，然而其它发布不久的新产品还在这些阶段中。对于增长型公司，Facebook和Twitter是最好的案例，它们都有巨大的用户基数，经历过或者正在这些阶段中。</p><h2 id="Facebook"><a href="#Facebook" class="headerlink" title="Facebook"></a>Facebook</h2><p><img src="https://cdn-images-2.medium.com/max/1600/1*2rvUOztrD0oetxLwdCdWhw.png" alt=""></p><h3 id="Want"><a href="#Want" class="headerlink" title="Want"></a>Want</h3><blockquote><p>早在2004年2月起步于哈佛大学，仅用了几周就获得三分之二学生的注册。</p></blockquote><p>Facebook能成为大众<strong>“想要”</strong>的产品，是让学生在“The Facebook”上看到他们的同学。最初发现一个既存想象就是发展那些有固定学生目录的学校。通过提供给学生可以浏览个人资料并添加好友的服务，就获取了学生目录中的很多用户。</p><h3 id="Need"><a href="#Need" class="headerlink" title="Need"></a>Need</h3><blockquote><p>我认为Facebook是个在线的同学录。<br>创造不同凡响和做很酷的事情，需要极度的专注。<br>并不需要做更多其它的事情。</p></blockquote><p>在Facebook早期的采访视频里，他们对学生之外的用户并没有什么野心。Facebook通过极度专注于提供大学生不可或缺的产品，从而成为一种<strong>需要</strong>。一个关键的功能加速了Facebook跨越这个阶段是发生2015年12月——增加了能够在照片上标注好友的功能。大学生们很快就上瘾了。</p><h3 id="Utility"><a href="#Utility" class="headerlink" title="Utility"></a>Utility</h3><blockquote><p>当初仅在哈佛大学提供的那种级别的服务，无法提供给所有学校使用。同样，我们提供给学校网络级别的服务，无法提供给其它社交网络使用。</p></blockquote><p>在2006年9月份，自从首次在哈佛大学上线使用两年半后，Facebook的产品对所有人开放。这是Facebook成为公共服务的开始。事实上，从那两年后，Facebook被它的员工自称为“社交服务”。</p><p>一旦一款面向大众的产品变成公共服务，你通常会发现它的功能被集成到其它产品中。产品带来的行为变成了一种文化，同时产品在人们的生活中变得根深蒂固，太常见了。Facebook坚韧地朝着“成为平台并转型到允许开发者集成其特征和功能到他们的新创造里去”的方向，不断努力。Facebook不会坐视其它产品抄袭它的功能：它使得集成更为简单，并在这种模式上获得了很大的收益。</p><h1 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h1><blockquote><p>Every successful consumer product has a unique core value proposition.<br>所有成功的大众产品都有独特的核心价值主张。</p></blockquote><p>那些能够变成巨人的产品，是能拿出核心价值，并花时间散播出去。你不可能一夜成名，也不可能从头来过。你要从给人们讲故事并带来印象深刻的体验开始。大多数的想法或有趣，或愚蠢。只要带有核心价值主张，终有一天会成为公共服务，并被视为文化。大众产品的成长就是一步步从一种“想要”，变成一种“需要”，在成为一种“公共服务”。只要公司能够跨越这三个深刻经历的阶段并且用户不断地增长，就会创造出持续繁荣的产品。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;关于用户增长，Arjun Sethi的&lt;a href=&quot;https://medium.com/backchannel/lessons-learned-growing-consumer-products-550fc04c63c2&quot; target=&quot;_blank&quot; rel=&quot;n
+      
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://gugang.net/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Busy, but not productive 忙碌，但没有生产力</title>
+    <link href="http://gugang.net/2015/10/24/busy-but-not-productive/"/>
+    <id>http://gugang.net/2015/10/24/busy-but-not-productive/</id>
+    <published>2015-10-23T16:00:00.000Z</published>
+    <updated>2017-12-13T11:35:48.294Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近手头上同时做好几件事情。有时候，回顾一周来做了什么，感觉就是：忙碌，但没有生产力。每天醒来意识到有许多事情需要做，但是到晚上躺下，发现真正关心的事情却没有太大的进度。</p><p>这种状态实在是太糟糕了。</p><p>在Staya Patel的<a href="http://venturegeneratedcontent.com/2015/10/19/busy-but-not-productive/" target="_blank" rel="noopener">这篇文章</a>里，讲述了创业者经常会遇到这种境况。文章里内容，不仅适用于创业者，也适用于个人。</p><p>========</p><p>投资人每个月所见的创业者都是有热情、有野心和决心的，并且他们想疯子一样工作。尽管创业者们不停地工作，但是进度很少。这不是因为创业者的想法不够好、团队薄弱或者资金限制，而是因为他们掉入了<strong>忙，但是没有生产力</strong>的陷阱。</p><p>创业者总是花时间在构建、销售和招聘这些事情，他们总是想做些事情。当他们被询问做得怎样时，却不能说很忙。因为，一旦做些事情，总要有一些进度。真实的情况是，未必有进度。</p><blockquote><p>Progress at a startup is ultimately measured not by hours but by risk. Progress is made by reducing risk. </p><p>Being productive at a startup means focusing all of your activity on learning so that you can reduce risk in the business.   </p></blockquote><p>创业公司的进展绝对不是用时间来衡量，而是用风险。在公司初创时期，所有的事情都不确定，并且有巨大的风险。创业的进度是看减少的风险。减少风险的唯一途径就是learning。作为一个高效的创业者意味着一切活动都是围绕着<strong>learning</strong>来减少商业上的风险。</p><p>不幸的是，很多创业者以做些事情然后看会发生什么作为learning。这不是learning，这仅仅是很忙。真正的learning需要在行动之前，问出问题，提出猜想。行动（尝试或者试验）并帮助你证明或者推翻你的猜想。特别是，大多数创业者在他们产品范围内learning。但是要做到高效且聚焦在learning上，需要从商业的各个方面去行动。市场、招聘和订单等等，都需要以猜想为驱动。这样你才能学会找到目标客户，雇佣有合适经验的员工或者找到产品上真正的价值。</p><p>只有learnning才能降低商业上风险。最终会让你在时机成熟时，获得资本的青睐。在你下一次融资时，潜在的投资人会看你自从上次获得投资后都做了些什么。这是潜在投资人询问的方式：商业上到底降低或者消除了多少风险。他们不想付更高的价钱却和早期投资者承担相同的风险。他们只愿付钱承担更小的风险。这就是生产力取代忙碌的成果。</p><p>========</p><p>评论：</p><blockquote><p>往往比较差的人会过度纠结于 how to do（光埋头苦干，而没有抬头看路），而厉害的人会先想 what to do &amp; why（避免做无用功，work smart）。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近手头上同时做好几件事情。有时候，回顾一周来做了什么，感觉就是：忙碌，但没有生产力。每天醒来意识到有许多事情需要做，但是到晚上躺下，发现真正关心的事情却没有太大的进度。&lt;/p&gt;
+&lt;p&gt;这种状态实在是太糟糕了。&lt;/p&gt;
+&lt;p&gt;在Staya Patel的&lt;a href=&quot;ht
+      
+    
+    </summary>
+    
+    
+      <category term="效率" scheme="http://gugang.net/tags/%E6%95%88%E7%8E%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Role of A Senior Developer 高级工程师的角色</title>
+    <link href="http://gugang.net/2015/10/01/the-role-of-a-senior-developer/"/>
+    <id>http://gugang.net/2015/10/01/the-role-of-a-senior-developer/</id>
+    <published>2015-09-30T16:00:00.000Z</published>
+    <updated>2017-12-13T11:35:48.294Z</updated>
+    
+    <content type="html"><![CDATA[<p>高级工程师的角色特征一直是个颇有争议的话题。从工作年限来划分，显然是不合适的。<a href="http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/" target="_blank" rel="noopener">这篇文章</a>写得非常好，清晰地讲明白了什么是“高级工程师”应该具有的品质。</p><h1 id="软件工程师的成长阶段"><a href="#软件工程师的成长阶段" class="headerlink" title="软件工程师的成长阶段"></a>软件工程师的成长阶段</h1><h2 id="Junior-Developer-初级工程师"><a href="#Junior-Developer-初级工程师" class="headerlink" title="Junior Developer 初级工程师"></a>Junior Developer 初级工程师</h2><blockquote><p>A good junior developer can be given a known task, and be expected to execute it quickly, and well.<br>优秀的初级工程师可以被分配一个可控的任务，并可以跟期望的一样，很快很好地完成任务。</p></blockquote><p>初级程序员大多刚从学校里毕业出来工作。他们懂了很多知识，却在接触到现实工作问题的时候，马上意识到学校里学到的实在有限。初级程序员需要更多的指引、监督和辅导<strong>(mentoring)</strong>，否则会长时间处于初级阶段而不能提升。这个阶段就是不断吸取经验，每日提升技能。</p><h2 id="Intermediate-Developer-中级工程师"><a href="#Intermediate-Developer-中级工程师" class="headerlink" title="Intermediate Developer 中级工程师"></a>Intermediate Developer 中级工程师</h2><blockquote><p>A good intermediate developer needs less supervision. They can be trusted to raise issues of code design, and play a valuable role in design discussions. They are also the “workhorses” of the dev team. However, further mentoring and higher level supervision is still vital.<br>优秀的中级工程师需要极少的监督。他们可以提出代码设计中的问题，并在设计的讨论中扮演很有价值的角色。同时，他们也是开发团队里的“高产者”。然而，他们仍需要进一步的辅导和更高层次的监督。</p></blockquote><p>中级工程师致力于寻求如何使用<strong>正确的方式</strong>构建系统的答案。他们会积累经验，阅读书籍，以及与其它工程师交流。初级工程师会做跟构建一堆算法相似的工作，而中级工程师则参考“设计模式”和“领域驱动设计”的书籍进行构建系统。尽管通过这些书籍学习了如何构建大型面向对象系统，但一些应用实例采用此类理论，将会导致过度工程化的系统在不重要的地方很灵活，很重要的地方却不够灵活。</p><h2 id="Senior-Developer-高级工程师"><a href="#Senior-Developer-高级工程师" class="headerlink" title="Senior Developer 高级工程师"></a>Senior Developer 高级工程师</h2><blockquote><p>A senior developer is intimately familiar with their own failure.<br>高级工程师深谙他们遭遇失败的原因。</p></blockquote><p>他们写过设计不足和过度设计的代码，并遭遇了由此引发的失败。他们反省自己所做，能够睿智真诚地评估处理问题时的成功和失败。高级工程师不再喜欢复杂，崇尚简单。</p><blockquote><p>A senior developer stops classifying developers based on their knowledge, and instead understands that there is a spectrum of strengths and weaknesses.<br>高级工程师不会根据掌握的知识来评判开发者，而是明白每个人都有相对的优势和劣势。</p></blockquote><p>他们比其他人更了解自己的优势和劣势，并尽量发挥自己的优势。</p><blockquote><p>A senior developer thinks in terms of “context” when applying theory.<br>高级工程师在应用理论时，考虑背景和环境。</p></blockquote><p>他们知道并没有绝对<strong>正确的方式</strong>去构建软件。构建好的软件唯一可行的方式就是让理论适应终端用户、代码库、团队、工具和组织的需求。</p><p>高级工程师很清楚在软件行业，所有的东西必须有所取舍，并在此基础上找到适合的设计模式、组件、框架和流程。</p><blockquote><p>A senior developer thinks of more than just themselves. They are aware of how their organization and their clients work, what their values are, and what is both important and not important for success.<br>高级工程师会考虑很多超越自身的问题。他们会考虑自身组织和终端客户如何运作，各自的价值在哪里，以及双方都要获得成功所需的重要的和不重要的东西。</p></blockquote><p>当有问题发生的时候，高级工程师总是尽力去解决问题。他们从来不会在出现问题的时候说“这不是我的工作”。</p><blockquote><p>A senior developer will understand that this job is to provide solutions to problems, not write code.<br>高级工程师明白这份工作就是给问题提供解决方案，而不是写代码。</p></blockquote><p>正因如此，高级工程师会权衡他们付出的努力与做这些事情为自身和客户带来的价值。当中级工程师埋头于枯燥工作的时候，高级工程师会退一步想导致工作很枯燥的问题的本质。他们会评估解决根本原因的成本，要么直接解决本质问题，要么齐心协力干掉枯燥的任务。</p><blockquote><p>A senior developer understands that you cannot do everything yourself, and that their primary role is to help their team get better, in many of the same ways they themselves strive for personal improvement.<br>高级工程师明白个人所能做的有限，所以他们的首要工作是参考自身提升的经验，帮助团队成长。</p><p>A senior developer understands that leadership is not about power, it is about empowerment. It is not about direction, it is about serving.<br>高级工程师明白领导力不是权力，是授权。领导力不是指路，而是服务。</p></blockquote><p>如果你的团队没有至少一位高级工程师承担领导角色，项目很可能会走向失败。如果你的团队全是中级工程师也可以推进工作，但是所构建的软件的生命力有限。结局无非是要么关闭软件，要么从成本和风险的角度考虑重写。高级工程师是唯一有能力去选择技术和平台的人，而不是那种从第一天就开始挖坑的人。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;高级工程师的角色特征一直是个颇有争议的话题。从工作年限来划分，显然是不合适的。&lt;a href=&quot;http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/&quot; target=&quot;_blank&quot; re
+      
+    
+    </summary>
+    
+    
+      <category term="职业" scheme="http://gugang.net/tags/%E8%81%8C%E4%B8%9A/"/>
+    
+  </entry>
+  
+</feed>
